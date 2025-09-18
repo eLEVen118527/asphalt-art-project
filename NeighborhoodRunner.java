@@ -1,5 +1,5 @@
 import org.code.neighborhood.*;
-
+// establishes our painters for our background, PainterPlus, cookiePainter, and chipPainter.//
 public class NeighborhoodRunner {
   public static void main(String[] args) {
     

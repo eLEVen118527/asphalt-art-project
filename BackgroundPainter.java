@@ -1,5 +1,5 @@
 import org.code.neighborhood.*;
-
+// this part creates the background in a lavender blush color and extends from PainterPlus.//
 public class backgroundPainter extends PainterPlus {
   
    public void turnWest() {
@@ -35,3 +35,4 @@ public class backgroundPainter extends PainterPlus {
     }
   }
 }
+    

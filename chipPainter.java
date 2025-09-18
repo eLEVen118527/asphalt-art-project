@@ -1,7 +1,5 @@
-import org.code.neighborhood.*;
-
 public class chipPainter extends PainterPlus {
-//paintCookieChips paints the delicous cookie chip!//
+//paintChip function paints the delicous cookie chip!//
     public void paintChip(String color) {
       paintChip1("SaddleBrown");
       paintChip2("SaddleBrown");
